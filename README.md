@@ -2,7 +2,7 @@
 
 A modern, feature-rich web application that combines a stopwatch, clock, countdown timer, and alarm system with a beautiful user interface.
 
-![Stopwatch & Clock App](https://i.imgur.com/example.png)
+
 
 ## Features
 
@@ -48,28 +48,6 @@ A modern, feature-rich web application that combines a stopwatch, clock, countdo
 - Font Awesome Icons
 - Google Fonts (Poppins)
 
-## Setup and Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/stopwatch-clock.git
-```
-
-2. Navigate to the project directory:
-```bash
-cd stopwatch-clock
-```
-
-3. Open `index.html` in your web browser:
-```bash
-# Using Python's built-in server
-python -m http.server 8000
-
-# Or using Node's http-server
-npx http-server
-```
-
-4. Access the application at `http://localhost:8000`
 
 ## Usage
 
@@ -107,26 +85,3 @@ npx http-server
 - Safari
 - Edge
 - Opera
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Font Awesome for the icons
-- Google Fonts for the Poppins font
-- Mixkit for the sound effects
-
-## Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-Project Link: [https://github.com/yourusername/stopwatch-clock](https://github.com/yourusername/stopwatch-clock) 
